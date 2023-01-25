@@ -8,9 +8,4 @@ class MainApp(App):
         button = Button(text = 'Привет мир!')
         return button
 
-
-
-
-
-
 MainApp().run()
